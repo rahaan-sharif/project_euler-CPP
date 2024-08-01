@@ -21,7 +21,5 @@ int main(void)
 		counter += is_prime(item);
 	}
 	cout << item << endl;
-
-
 	return 0;
 }
